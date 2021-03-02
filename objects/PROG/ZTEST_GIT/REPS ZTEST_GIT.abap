@@ -6,4 +6,4 @@
 REPORT ZTEST_GIT.
 
 
-write: |HELLO WORLD|.
+write: |HELLO WORLD|, | How are you|.

@@ -1,0 +1,22 @@
+[
+ {
+  "table":"TEXTPOOLT",
+  "data":
+  [
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"D",
+    "ENTRY":"Aktivieren Sie {0} und passen Sie alle abhängigen Objekte an",
+    "LENGTH":90
+   },
+   {
+    "ID":"I",
+    "KEY":"001",
+    "LANG":"E",
+    "ENTRY":"Activate {0} and adjust all dependent objects",
+    "LENGTH":90
+   }
+  ]
+ }
+]

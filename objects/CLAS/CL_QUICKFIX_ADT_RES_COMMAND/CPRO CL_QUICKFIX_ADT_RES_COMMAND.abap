@@ -1,0 +1,3 @@
+  PROTECTED SECTION.
+    METHODS
+      apply_obj REDEFINITION.
